@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.8.2/log4j-core-2.8.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.8.2/log4j-api-2.8.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+</classpath>
